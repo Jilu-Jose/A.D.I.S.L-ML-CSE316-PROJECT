@@ -1,0 +1,2001 @@
+Timestamp,Threat Type,Severity,Status,Anomaly
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Trojans,High,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Active,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,High,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Investigating,0
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Port Scan,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Active,0
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Brute Force,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,High,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Resolved,0
+03/23/2025 08:43:58 AM,DDoS,Low,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Malware,High,Investigating,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Brute Force,High,Active,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Low,Investigating,1
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Active,0
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,High,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Resolved,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Malware,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Malware,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Unauthorized Login,High,Investigating,1
+03/23/2025 08:43:58 AM,Brute Force,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Port Scan,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Trojans,Low,Resolved,1
+03/23/2025 08:43:58 AM,Malware,Low,Investigating,1
+03/23/2025 08:43:58 AM,Port Scan,High,Active,1
+03/23/2025 08:43:58 AM,Trojans,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Trojans,High,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Port Scan,Low,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Unauthorized Login,Intermediate,Investigating,1
+03/23/2025 08:43:58 AM,Trojans,Low,Active,1
+03/23/2025 08:43:58 AM,DDoS,Intermediate,Active,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Active,1
+03/23/2025 08:43:58 AM,Normal Traffic,High,Investigating,0
+03/23/2025 08:43:58 AM,Normal Traffic,Low,Investigating,0
+03/23/2025 08:43:58 AM,Unusual Traffic,Low,Resolved,1
+03/23/2025 08:43:58 AM,Unusual Traffic,High,Investigating,1
+03/23/2025 08:43:58 AM,Unusual Traffic,Intermediate,Resolved,1
+03/23/2025 08:43:58 AM,Normal Traffic,Intermediate,Resolved,0
