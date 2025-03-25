@@ -1,7 +1,7 @@
 import random
 import pandas as pd
 import datetime
-import matplotlib.pyplot as plt
+
 th_typ= ["Port Scan", "Malware","Unusual Traffic","Normal Traffic", "Unauthorized Login", "Brute Force", "Trojans", "DDoS"]
 sev_typ= ["Low", "Intermediate", "High"]
 stat = ["Investigating","Active", "Resolved"]
