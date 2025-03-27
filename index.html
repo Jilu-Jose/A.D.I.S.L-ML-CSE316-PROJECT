@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #ebeaea8a;
+            padding: 20px;
+            margin: 0;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            gap: 20px;
+            margin-bottom: 50px;
+        }
+
+        .sidebar {
+            width: 600px;
+            background: #f2f0f0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(6, 6, 6, 0.737);
+            color: rgb(4, 4, 4);
+            text-align: center;
+        }
+
+        .header{
+            width: 40%;
+            color: rgb(98, 96, 96);
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 15px;
+            table-layout: fixed;
+            box-shadow: 0px 4px 6px rgb(0, 0, 0);
+            text-align: center;
+            margin-bottom: 60px;
+            background-color: rgb(181, 182, 183);
+            border-radius: 50px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+        }
+
+        .log-table, .deadlock-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            font-size: 12px;
+            table-layout: fixed;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        .log-table th, .log-table td, .deadlock-table th, .deadlock-table td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+            word-wrap: break-word;
+        }
+
+        .log-table th, .deadlock-table th {
+            background-color: #07e685;
+            color: white;
+            font-weight: bold;
+            padding: 10px;
+        }
+
+        .log-table td, .deadlock-table td {
+            background-color: #efeded;
+            color: rgb(11, 11, 11);
+            vertical-align: middle;
+        }
+
+        .log-table th:nth-child(1), .log-table td:nth-child(1) { width: 15%; }
+        .log-table th:nth-child(2), .log-table td:nth-child(2) { width: 20%; }
+        .log-table th:nth-child(3), .log-table td:nth-child(3) { width: 20%; }
+        .log-table th:nth-child(4), .log-table td:nth-child(4) { width: 15%; }
+        .log-table th:nth-child(5), .log-table td:nth-child(5) { width: 18%; }
+        .log-table th:nth-child(6), .log-table td:nth-child(6) { width: 12%; }
+
+        .deadlock-table th:nth-child(1), .deadlock-table td:nth-child(1) { width: 30%; }
+        .deadlock-table th:nth-child(2), .deadlock-table td:nth-child(2) { width: 40%; }
+        .deadlock-table th:nth-child(3), .deadlock-table td:nth-child(3) { width: 30%; }
+
+        .badge {
+            padding: 5px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            display: inline-block;
+            min-width: 60px;
+            text-align: center;
+            overflow-wrap: break-word;
+            cursor: pointer; 
+        }
+
+        .badge-medium {
+        background-color: rgb(251, 255, 0); 
+        color: black; 
+    }
+
+        .badge-high {
+        background-color: red; 
+        color: white; 
+    }
+
+        .badge-low { 
+        background-color: rgb(6, 225, 10); 
+        color: black; 
+    }
+
+        .badge-active { 
+        background-color: red; 
+        color: white; 
+    }
+
+        .badge-investigating { 
+        background-color: yellow; 
+        color: black; 
+        padding: 4px 8px; 
+    }
+
+        .badge-resolved { 
+        background-color: green; 
+        color: white; 
+    }
+
+        .badge-yes { 
+        background-color: red; 
+        color: white; 
+        padding:4px 8px
+    }
+
+        .badge-no { 
+        background-color: green; 
+        color: white; 
+    }
+
+        .log-box, .deadlock-box {
+            height: 250px;
+            overflow-y: auto;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            text-align: center;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        .charts-container {
+            display: flex;
+            flex-direction: row;
+            gap: 20px;
+            width: 100%;
+            justify-content: center;
+            
+        }
+
+        .chart-container {
+            width: 600px;
+            height: 300px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(6, 6, 6, 0.737);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        
+        .chart-container.donut {
+            padding: 20px;
+            box-shadow: 0px 4px 6px rgba(6, 6, 6, 0.737);
+        }
+
+        .resource-chart-container, .deadlock-container {
+            width: 600px;
+            height: 340px;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 6px rgba(6, 6, 6, 0.737);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            padding-bottom: 50px;
+        }
+
+        canvas {
+            width: 100% ;
+            height: 100% ;
+            max-height: 250px; 
+        }
+
+       
+        #memoryAllocationChart {
+            max-width: 200px; 
+            max-height: 200px; 
+        }
+
+
+        .A{
+            color:rgb(255, 60, 0);
+        }
+        .D{
+            color:rgb(255, 60, 0);
+        }
+        .S{
+            color:rgb(255, 60, 0);
+        }
+    </style>
+
+
+
+
+</head>
+<body>
+
+    <div class="header">
+        <h1><span class="A">A</span>nomaly <span class="D">D</span>etection <span class="S">S</span>ystem</h1>
+    </div>
+
+    
+    <div class="container">
+       
+        <div class="sidebar">
+            <h3>Anomaly Detection System</h3>
+            <h4>System Logs</h4>
+            <div class="log-box">
+                <table class="log-table">
+                    <thead>
+                        <tr>
+                            <th>Log ID</th>
+                            <th>Timestamp</th>
+                            <th>Type</th>
+                            <th>Severity</th>
+                            <th>Status</th>
+                            <th>Anomaly</th>
+                        </tr>
+                    </thead>
+                    <tbody id="logTableBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        
+        <div class="resource-chart-container">
+            <h3>Resource Allocation Graph</h3>
+            <canvas id="resourceChart"></canvas>
+        </div>
+
+        
+        <div class="deadlock-container">
+            <h3>Deadlock Detection</h3>
+            <div class="deadlock-box">
+                <table class="deadlock-table">
+                    <thead>
+                        <tr>
+                            <th>Log ID</th>
+                            <th>Type</th>
+                            <th>Deadlock</th>
+                        </tr>
+                    </thead>
+                    <tbody id="deadlockTableBody"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="charts-container">
+        
+        <div class="chart-container">
+            <h3>CPU Usage</h3>
+            <canvas id="cpuChart"></canvas>
+        </div>
+
+       
+        <div class="chart-container">
+            <h3>Memory Usage</h3>
+            <canvas id="memoryChart"></canvas>
+        </div>
+
+       
+        <div class="chart-container donut">
+            <h3>Memory Allocation</h3>
+            <canvas id="memoryAllocationChart"></canvas>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <script>
+        
+        function LineChart(canvasId, label, threshold, color) {
+            const ctx = document.getElementById(canvasId).getContext('2d');
+            return new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: [],
+                    datasets: [
+                        {
+                            label: label,
+                            data: [],
+                            borderColor: color,
+                            backgroundColor: color.replace('1)', '0.3)'),
+                            borderWidth: 2,
+                            pointRadius: 4,
+                            fill: true,
+                            tension: 0.3
+                        },
+                        {
+                            label: "Threshold",
+                            data: new Array(10).fill(threshold),
+                            borderColor: "#ff6384",
+                            borderWidth: 2,
+                            borderDash: [5, 5],
+                            pointRadius: 3,
+                            fill: false
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: { display: true, position: 'top' }
+                    },
+                    scales: {
+                        y: { min: 0, max: 100, title: { display: true, text: "Usage (%)", font: { weight: 'bold' } }, ticks: { stepSize: 10 } },
+                        x: { title: { display: true, text: "Time", font: { weight: 'bold' } } }
+                    }
+                }
+            });
+        }
+
+
+
+
+       
+        function BarChart(canvasId) {
+            const ctx = document.getElementById(canvasId).getContext('2d');
+            return new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: ['Process-1', 'Process-2', 'Process-3', 'Process-4', 'Process-5'],
+                    datasets: [
+                        { label: 'CPU Allocation (%)', data: [], backgroundColor: 'rgba(78, 205, 196, 0.6)', borderColor: 'rgba(78, 205, 196, 1)', borderWidth: 1 },
+                        { label: 'Memory Allocation (%)', data: [], backgroundColor: 'rgba(102, 51, 255, 0.6)', borderColor: 'rgba(102, 51, 255, 1)', borderWidth: 1 }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: true, position: 'top' } },
+                    scales: {
+                        y: { min: 0, max: 100, title: { display: true, text: "Allocation (%)", font: { weight: 'bold' } }, ticks: { stepSize: 10 } },
+                        x: { title: { display: true, text: "Processes", font: { weight: 'bold' } } }
+                    }
+                }
+            });
+        }
+
+
+
+
+
+        
+        function DonutChart(canvasId) {
+            const ctx = document.getElementById(canvasId).getContext('2d');
+            return new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Allocated Memory', 'Free Memory'],
+                    datasets: [{
+                        data: [50, 50], 
+                        backgroundColor: ['rgba(102, 51, 255, 0.6)', 'rgba(200, 200, 200, 0.6)'],
+                        borderColor: ['rgba(102, 51, 255, 1)', 'rgba(200, 200, 200, 1)'],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true, 
+                    plugins: {
+                        legend: {
+                            display: true,
+                            position: 'top',
+                            labels: {
+                                boxWidth: 20,
+                                padding: 10,
+                                font: {
+                                    size: 12
+                                }
+                            }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    return `${context.label}: ${context.raw}%`;
+                                }
+                            }
+                        }
+                    },
+                    cutout: '50%', 
+                }
+            });
+        }
+
+       
+        const cpuChart = LineChart("cpuChart", "CPU Usage (%)", 80, "rgba(78, 205, 196, 1)");
+        const memoryChart = LineChart("memoryChart", "Memory Usage (%)", 85, "rgba(102, 51, 255, 1)");
+        const resourceChart = BarChart("resourceChart");
+        const memoryAllocationChart = DonutChart("memoryAllocationChart");
+
+        
+        function updtLineChart(chart) {
+            const now = new Date();
+            const time = now.toLocaleTimeString();
+            const randomUsage = Math.floor(Math.random() * 100);
+            if (chart.data.labels.length > 10) {
+                chart.data.labels.shift();
+                chart.data.datasets[0].data.shift();
+            }
+            chart.data.labels.push(time);
+            chart.data.datasets[0].data.push(randomUsage);
+            chart.update();
+        }
+
+       
+        function updtBarChart(chart) {
+            const cpuData = Array.from({ length: 5 }, () => Math.floor(Math.random() * 100));
+            const memoryData = Array.from({ length: 5 }, () => Math.floor(Math.random() * 100));
+            chart.data.datasets[0].data = cpuData;
+            chart.data.datasets[1].data = memoryData;
+            chart.update();
+        }
+
+       
+        function updtDonutChart(chart) {
+            const allocated = Math.floor(Math.random() * 90) + 10;
+            const free = 100 - allocated;
+            chart.data.datasets[0].data = [allocated, free];
+            chart.update();
+        }
+
+       
+        setInterval(() => updtLineChart(cpuChart), 2000);
+        setInterval(() => updtLineChart(memoryChart), 2000);
+        setInterval(() => updtBarChart(resourceChart), 2000);
+        setInterval(() => updtDonutChart(memoryAllocationChart), 2000);
+
+       
+        function generateLogId() {
+            const charac = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+            let logId = '';
+            for (let i = 0; i < 4; i++) {
+                logId += charac.charAt(Math.floor(Math.random() * charac.length));
+            }
+            return logId;
+        }
+
+       
+
+
+        const types = [
+            "Unauthorized Access", "Normal Traffic", "Malware", "DDoS", "Port Scan",
+            "SQL Injection", "Brute Force", "Phishing Attempt", "Data Exfiltration", "Ransomware"
+        ];
+        const severity = ["Low", "Medium", "High"];
+        const status = ["Active", "Investigating", "Resolved"];
+        const anomaly = ["Yes", "No"];
+        const deadlock = ["Yes", "No"];
+
+       
+
+
+
+
+        function generateLog() {
+            return {
+                id: generateLogId(),
+                type: types[Math.floor(Math.random() * types.length)],
+                severity: severity[Math.floor(Math.random() * severity.length)],
+                status: status[Math.floor(Math.random() * status.length)],
+                anomaly: anomaly[Math.floor(Math.random() * anomaly.length)],
+                deadlock: deadlock[Math.floor(Math.random() * deadlock.length)]
+            };
+        }
+
+        
+        const logs = [];
+        for (let i = 0; i < 100; i++) {
+            logs.push(generateLog());
+        }
+
+        let currentIndex = 0;
+
+        
+
+
+
+
+
+
+        function displayLogs() {
+            const logTableBody = document.getElementById("logTableBody");
+            const now = new Date();
+            const timestamp = now.toLocaleString();
+
+            logTableBody.innerHTML = '';
+
+            const endIndex = Math.min(currentIndex + 5, logs.length);
+            for (let i = currentIndex; i < endIndex; i++) {
+                const log = logs[i];
+                const row = `<tr>
+                    <td>${log.id}</td>
+                    <td>${timestamp}</td>
+                    <td>${log.type}</td>
+                    <td><span class="badge badge-${log.severity.toLowerCase()}">${log.severity}</span></td>
+                    <td><span class="badge badge-${log.status.toLowerCase()}">${log.status}</span></td>
+                    <td><span class="badge badge-${log.anomaly.toLowerCase()}">${log.anomaly}</span></td>
+                </tr>`;
+                logTableBody.innerHTML += row;
+            }
+        }
+
+       
+
+
+
+
+
+
+        function deadlockLogs() {
+            const deadlockTableBody = document.getElementById("deadlockTableBody");
+            deadlockTableBody.innerHTML = '';
+
+            const endIndex = Math.min(currentIndex + 5, logs.length);
+            for (let i = currentIndex; i < endIndex; i++) {
+                const log = logs[i];
+                const row = `<tr>
+                    <td>${log.id}</td>
+                    <td>${log.type}</td>
+                    <td><span class="badge badge-${log.deadlock.toLowerCase()}" onclick="toggleDeadlock('${log.id}', this)">${log.deadlock}</span></td>
+                </tr>`;
+                deadlockTableBody.innerHTML += row;
+            }
+
+            currentIndex += 5;
+            if (currentIndex >= logs.length) {
+                currentIndex = 0;
+            }
+        }
+
+        
+
+
+
+
+        function toggleDeadlock(logId, element) {
+            const log = logs.find(l => l.id === logId);
+            if (log) {
+                log.deadlock = log.deadlock === "Yes" ? "No" : "Yes";
+                element.textContent = log.deadlock;
+                element.className = `badge badge-${log.deadlock.toLowerCase()}`;
+            }
+        }
+
+       
+        displayLogs();
+        deadlockLogs();
+        setInterval(() => { displayLogs(); deadlockLogs(); }, 2000);
+    </script>
+
+</body>
+</html>
