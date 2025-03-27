@@ -14,6 +14,12 @@ from tensorflow.keras import layers
 
 df = pd.read_csv("log_data.csv")
 df.head(10)
+df.tail(10)
+
+df.describe()
+df.info()
+df.dropna()
+
 
 lab_enc = {}
 for cl in ["Threat Type", "Severity", "Status"]:
@@ -54,9 +60,6 @@ thresh = np.percentile(merr, 90)
 
 y_predic = (merr > thresh).astype(int)
 
-accur = accuracy_score(y_test, y_predic)
-print(f"Accuracy: {accur:.4f}")
-print(classification_report(y_test, y_predic, target_names=["Normal", "Anomaly"]))
 
 autoenc.save("model_autoencoder.keras")
 
