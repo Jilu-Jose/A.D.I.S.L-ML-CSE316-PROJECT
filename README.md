@@ -1,4 +1,4 @@
-"""ML-Based Anomly Detection in System Security:"""
+ML-Based Anomly Detection in System Security:
 
 -This project integrates the concepts of Operating Systems and Machine Learning to create an anomaly/ intrusion detection sytem using unsupervised deep learning models.
 The goal is to detect and identify suspicious activities and potential security threats that may lead to a deadlock situation thus, harming the entire operating system.
